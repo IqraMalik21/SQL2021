@@ -1,0 +1,28 @@
+SQL Learning Resources:
+https://learnsql.com/blog/ways-to-practice-sql-online/
+
+
+1. Hackerrank
+	15 Days of Learning SQL
+	Sign in using linkedIn
+
+2. SQLZOO (https://sqlzoo.net/wiki/SQL_Tutorial)
+	Login using Username: IqraMalik21	Password: Allah786	Email: iqramalik200021@gmail.com 
+
+3. TestDome (https://www.testdome.com/for-jobseekers)
+	Not Signed In
+
+4. Live SQL (https://livesql.oracle.com/apex/f?p=590:1000:16717151995839::NO:RP,1000::&cs=3N8th-dPVd8gSXKyb-1jsbi1y8nAuYdjbYWv2cPdO3U5kmE2Z6tsr7bv0qSaG3LP2c-iD9T2YuFfzqYoTrnmn7w)
+	Sign in using Oracle Account, email: iqramalik200021@gmail.com	password: Allah786
+
+5.Coding Ground (https://www.tutorialspoint.com/codingground.htm)
+	Sign in using, email: iqramalik200021@gmail.com	password: Allah786
+	https://www.studytonight.com/code/playground/
+
+6. StudyTonight (https://www.studytonight.com/code/playground/sql/) (https://www.studytonight.com/code/playground/)
+	SignIn using Google 
+	https://www.studytonight.com/dbms/
+	https://www.studytonight.com/code/playground/sql/
+
+7. W3 School (https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc)
+	https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
