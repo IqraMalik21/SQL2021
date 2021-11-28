@@ -46,7 +46,7 @@ namespace DCLab2
         private void button4_Click(object sender, EventArgs e)
         {
             DataFunctions dataObj = new DCLab2.DataFunctions();
-            string SQL_Update = "UPDATE Student SET Name= ' " + textBox2.Text + " ' , FatherName= ' " + textBox3.Text + " ' , Batch= " + int.Parse(textBox4.Text) + " , Year= " + int.Parse(textBox5.Text) + " WHERE StudentRollNo= " + int.Parse(textBox1.Text) + "," + (comboBox1.SelectedIndex + 1) + "; ";
+            string SQL_Update = "UPDATE Student SET Name= ' " + textBox2.Text + " ' , FatherName= ' " + textBox3.Text + " ' , Batch= " + int.Parse(textBox4.Text) + " , Year= " + int.Parse(textBox5.Text) + " , CityID= " + (comboBox1.SelectedIndex + 1) + " WHERE StudentRollNo= " + int.Parse(textBox1.Text) + "; ";
             dataGridView1.DataSource = dataObj.Manipulation(SQL_Update);
         }
 
